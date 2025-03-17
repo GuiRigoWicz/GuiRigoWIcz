@@ -17,5 +17,4 @@
  
 <div> 
   <a href="https://instagram.com/guirigowicz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/ricardohdias](https://www.linkedin.com/in/guilherme-rigobeli-333978341/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://www.linkedin.com/in/guilherme-rigobeli-333978341/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
